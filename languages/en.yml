@@ -121,7 +121,7 @@ PLAYER_IS_PRIVATE: '§aServer §8| §fCurrent player enabled private mode, infor
 PLAYER_NO_PLOT: '§aServer §8| §fYou have to be a plot member to use your opportunities'
 PLAYER_NO_REGION: '§aServer §8| §fYou have to be a region member to use your opportunities'
 PLAYER_NO_PVP: '§aServer §8| §fDisable §a%s§f to start PvP'
-CLEAR_INFO: '§aСервер §8| §fDeleted §a%s§f unnecessary creatures'
+CLEAR_INFO: '§aServer §8| §fDeleted §a%s§f unnecessary creatures'
 TIME_GIVE: '§aServer §8| §fYou got §a%s for being online %s'
 
 TYPE_YES: 'Yes'
@@ -2371,7 +2371,7 @@ GUILD_UNMUTE_ME: '§aГильдия §8| §cВы не можете разбло�
 GUILD_MUTE_ALREADY: '§aГильдия §8| §cУ игрока %s уже заблокирован чат гильдии'
 GUILD_MUTE_MSG: '§aГильдия §8| %s§c заблокировал Вам чат гильдии по причине %s на %s'
 
-GUILD_INFO_DEFAULT: '§2Гильдии §8| '
+GUILD_INFO_DEFAULT: '§2Guild §8| '
 
 GUILD_UNMUTE_FORMAT: '/%s unmute <ник игрока>'
 GUILD_UNMUTE_ALREADY: '§aГильдия §8| §cУ игрока %s не заблокирован чат гильдии'
@@ -2388,51 +2388,51 @@ GUILD_UNBAN_ALREADY: '§aГильдия §8| §cИгрок %s не заблок�
 GUILD_UNBAN_MSG: '§aГильдия §8| §aВам был разблокирован доступ к гильдии §e%s'
 GUILD_UNBAN: '§aГильдия §8| §fВы разблокировали участника %s'
 
-GUILD_BANINFO_FORMAT: '/%s baninfo <ник игрока>'
-GUILD_MUTEINFO_FORMAT: '/%s muteinfo <ник игрока>'
+GUILD_BANINFO_FORMAT: '/%s baninfo <nickname>'
+GUILD_MUTEINFO_FORMAT: '/%s muteinfo <nickname>'
 GUILD_BANINFO:
-- '§aГильдия §8| §fИнформация об %s'
+- '§aGuild §8| §fInformation about %s'
 - '§f- %s'
-- '§f- Причина: §e%s'
-- '§f- Дата: §6%s'
-- '§f- Кончится через: §e%s'
+- '§f- Reason: §e%s'
+- '§f- Date: §6%s'
+- '§f- Will end in: §e%s'
 
-GUILD_STATS_BUY: '§aКуплено'
-GUILD_STATS_NO_BUY: '§cНе куплено'
-GUILD_STATS_LIMITED: ' §c• §fОбнуление лимита через: §e%s'
+GUILD_STATS_BUY: '§aPurchased'
+GUILD_STATS_NO_BUY: '§cNot purchased'
+GUILD_STATS_LIMITED: ' §c• §fReset to limit in: §e%s'
 GUILD_STATS:
-- '§aГильдия §8| §fСтатистика гильдии §a%s §8| §e%s§f:'
-- '§c • §fДата основания: §a%s'
-- '§c • §fВладелец: §a%s'
-- '§c • §fОснователь: §a%s'
-- '§c • §fПубличность: %s'
-- '§c • §fУчастников: §a%s§7/§c%s'
-- '§aГильдия §8| §fБаланс:'
-- '§c • §fСтоимость гильдии: §d%s'
-- '§c • §fБаланс гильдии: §a%s'
-- '§c • §fЗаработано за день: §a%s'
-- '§c • §f12-ти часовой лимит: §c%s'
+- '§aGuild §8| §fGuild statistics §a%s §8| §e%s§f:'
+- '§c • §fDate founder: §a%s'
+- '§c • §fOwner: §a%s'
+- '§c • §fFounder: §a%s'
+- '§c • §fPublicity: %s'
+- '§c • §fMembers: §a%s§7/§c%s'
+- '§aGuild §8| §fBalance:'
+- '§c • §fPrice: §d%s'
+- '§c • §fBalance of guild: §a%s'
+- '§c • §fEarned for day: §a%s'
+- '§c • §fThe 12 hour limit: §c%s'
 GUILD_LEVEL:
-- '§aГильдия §8| §fУ гильдии §b%s§f уровень'
-- '§aГильдия §8| §fДо следующего уровня необходимо набрать §6%s'
+- '§aGuild §8| §fУ гильдии §b%s§f уровень'
+- '§aGuild §8| §fДо следующего уровня необходимо набрать §6%s'
 
-GUILD_HOME_NO: '§aГильдия §8| §cУ гильдии еще нет дома гильдии'
-GUILD_HOME: '§aГильдия §8| §fВы были телепортированы в дом гильдии'
+GUILD_HOME_NO: '§aGuild §8| §cУ гильдии еще нет дома гильдии'
+GUILD_HOME: '§aGuild §8| §fВы были телепортированы в дом гильдии'
 
-GUILD_DELHOME: '§aГильдия §8| §fТочка дома гильдии была удалена'
-GUILD_DELHOME_ALREADY: '§aГильдия §8| §cУ гильдии еще нет дома гильдии, создайте его /g sethome'
-GUILD_DELHOME_ALERT: '§2Гильдии §8| %s§7 удалил точку кланового дома'
+GUILD_DELHOME: '§aGuild §8| §fТочка дома гильдии была удалена'
+GUILD_DELHOME_ALREADY: '§aGuild §8| §cУ гильдии еще нет дома гильдии, создайте его /g sethome'
+GUILD_DELHOME_ALERT: '§2Guild §8| %s§7 удалил точку кланового дома'
 
-GUILD_SETHOME: '§aГильдия §8| §fТочка дома гильдии была установлена'
-GUILD_SETHOME_ALERT: '§2Гильдии §8| %s§7 установил точку кланового дома на режиме §a%s'
-GUILD_SETHOME_INVALID: '§aГильдия §8| §cОшибка, устанавливать дом гильдии можно только на режимах: %s'
+GUILD_SETHOME: '§aGuild §8| §fТочка дома гильдии была установлена'
+GUILD_SETHOME_ALERT: '§2Guild §8| %s§7 установил точку кланового дома на режиме §a%s'
+GUILD_SETHOME_INVALID: '§2Guild §8| §cОшибка, устанавливать дом гильдии можно только на режимах: %s'
 
-GUILD_INFO_FORMAT: '/%s info <ник>'
+GUILD_INFO_FORMAT: '/%s info <nick>'
 GUILD_INFO:
-- '§aГильдия §8| §fСтатистика игрока %s'
-- '§c• §fРанг игрока: §a%s'
-- '§c• §fВ гильдии с: §a%s'
-- '§c• §fНа должности с: §a%s'
+- '§aGuild §8| §fStatistics player %s'
+- '§c• §fPlayer rank: §a%s'
+- '§c• §fIn the guild with: §a%s'
+- '§c• §fIn rank with: §a%s'
 GUILD_DONATEINFO_FORMAT: '/%s donateinfo <ник>'
 GUILD_DONATEINFO:
 - '§aГильдия §8| §fИнформация о внесенных монетах игроком %s'
@@ -2887,8 +2887,8 @@ REPORT_IDLIST:
 REPORT_INFO:
 - '§aReports §8| §fВ данный момент на рассмотрении §a%s§7 (рассмотреть сейчас)'
 REPORT_INFO_HOVER:
-- '§f§oНажмите,'
-- '§f§oчтобы рассмотреть'
+- '§f§oClick'
+- '§f§oto review'
 SETTINGS_DONATECHAT_DISABLE: '§cYou disabled donate chat. To write there, turn it on in the personal settings'
 ASK_NO_STAFF_ONLINE: '§aQuestions §8| §fNo staff online, On your question no one to answer :('
 ASK_ALREADY_SENT: '§aQuestions §8| §cYou already asked a question, wait for answer'
@@ -4136,27 +4136,27 @@ SENDMONEY_ERROR_MONEY_OTHER: '§aServer §8| §cError, you can not donate amount
 SENDMONEY_ERROR_MONEY_OTHER_2: '§aServer §8| §cError, you can not deposit amounts lower than %s and higher than %s at a one time!'
 SENDCORE_FORMAT: '/%s <player name> <sum>'
 
-VK_NOT_LINK: '§aVK-bot §8| §fДанный игрок не привязал свой аккаунт к §9VK §fботу'
-VK_HIDE: '§aVK-bot §8| §cДанный игрок запретил узнавать его страницу VK'
-VK_OTHER: '§aVK-bot §8| §fУ пользователя %s§f привязан аккаунт: §7%s'
-VK: '§aVK-bot §8| §fК вашему аккаунту привязан профиль: §7%s'
+VK_NOT_LINK: '§aVK-bot §8| §fThis player did not link his account to §9VK §fbot'
+VK_HIDE: '§aVK-bot §8| §cThis player has forbidden to recognize his page VK'
+VK_OTHER: '§aVK-bot §8| §fAt user %s§f linked account: §7%s'
+VK: '§aVK-bot §8| §fA profile is linked to your account: §7%s'
 VK_HELP:
-- '§aVK-bot §8| §fДля просмотра чужого профиля используйте §7/vk <ник>'
-VK_NOT_LINK_YOU: '§aVK-bot §8| §fК вашему аккаунту не привязан профиль §9VK'
+- '§aVK-bot §8| §fTo view someone else's profile use §7/vk <nick>'
+VK_NOT_LINK_YOU: '§aVK-bot §8| §fThere is no profile linked to your account §9VK'
 VK_SENT_MESSAGE_FORMAT: ' §aPM §8| §aI §8-> %s§7 (VK) §8| §f%s§f Link - §a/vkinfo'
 VK_RECIEVED_MESSAGE_FORMAT: ' §aPM §8| %s§7 (VK) §8-> §aI §8| §f%s'
 VK_INFO_ERROR:
-- '§aVK-bot §8| §cОшибка, для привязки аккаунта у вас должен быть создан TFA-Key.'
-- '§c Создайте его командой §e/tfa create§c, или-же задайте свой §e/tfa change <key>'
+- '§aVK-bot §8| §cError, you had to create a TFA key to link your account.'
+- '§c Create it with the command §e/tfa create§c, or set your own §e/tfa change <key>'
 VK_INFO_MSG:
-- '§aVK-bot §8| §fДля привязки аккаунта вам нужно написать,'
-- '§f в сообщения нашего сообщества §dvk.me/flycore'
-- '§f сообщение: §c!привязать %s'
-- '§f и если все было сделано правильно, то при написании команды'
-- '§f §e/vk %s§f вы сможете увидеть ссылку на ваш §9VK§f.'
-- '§8 ▪ §7Отключить или включить отображение вашего §9VK'
-- ' §7 вы можете в §c/vkinfo toggle'
-VK_TOGGLE: '§aVK-bot §8| §fОтображение вашего §9VK§f - %s'
+- '§aVK-bot §8| §fTo link your account, you need to write,'
+- '§f in the messages of our community §dvk.me/flycore'
+- '§f message: §c!привязать %s'
+- '§f and if everything was done happily, then when writing the command'
+- '§f §e/vk %s§f you will be able to see a link to your §9VK§f.'
+- '§8 ▪ §7Disable or enable the display of your §9VK'
+- ' §7 you can in §c/vkinfo toggle'
+VK_TOGGLE: '§aVK-bot §8| §fDisplaying your §9VK§f - %s'
 
 PROMO_FORMAT: '/%s <promo-code>'
 PROMO_NOT_FOUND: '§aPromo-codes §8| §cError, promo-code %s is not found'
@@ -7470,10 +7470,7 @@ GUI_CASES_INFO_LORE:
 - ' '
 - '§7Approximate(§7§nstarting§7) chances for '
 - '§7getting items from chest:'
-- ' §8• §eDefault§f(§e☆§f) §8- §763.5%'
-- ' §8• §bRare§f(§b☆☆§f) §8- §727%'
-- ' §8• §5Epic§f(§5☆☆☆§f) §8- §77%'
-- ' §8• §6Legendary§f(§6☆☆☆☆§f) §8- §72.5%'
+- '%s'
 - ' '
 - '§cWITH EACH OPENING CHANCES ARE GROWING UP!'
 GUI_CASES_INFO2_NAME: '§bHow to get keys?'
@@ -7529,9 +7526,9 @@ GUI_CASES_MONEY_LORE:
 GUI_CASES_COSMETIC_NAME: '§aCosmetic-game key'
 GUI_CASES_COSMETIC_LORE:
 - ''
-- '§7Используется для получения'
-- '§7эффектов стрел, предсмертных хрипов и других'
-- '§7визуальных вещей на аренах'
+- '§7Uses for getting'
+- '§7effects of arrows, death rattles and other'
+- '§7visual things in the arena'
 - ''
 - '§cWarning! By getting already existing'
 - '§citem you will get from 500 to 2,000 coins!'
@@ -7549,40 +7546,54 @@ GUI_CASES_ULTRA_LORE:
 GUI_CASES_GAME_NAME: '§cGame key'
 GUI_CASES_GAME_LORE:
 - ''
-- '§7Используется для получения'
-- '§7различных предметов,'
-- '§7на режимах выживаний.'
+- '§7Uses for getting'
+- '§7various items'
+- '§7on game survival'
 GUI_CASES_NEWYEAR_NAME: '§bNewYear key'
 GUI_CASES_NEWYEAR_LORE:
 - ''
 - '§7Открой празднично-новогодний'
 - '§7ключ, и получи подарки быстрее чем,'
 - '§7из под ёлки :)'
-GUI_CASES_TITLE_NAME: '§fТитульный ключ'
+GUI_CASES_TITLE_NAME: '§fTitle key'
 GUI_CASES_TITLE_LORE:
 - ''
-- '§7Используется для получения'
-- '§7титулов (§fПрофиль §7▸ §fТитулы§7)'
+- '§7Uses for getting'
+- '§7titles (§fProfile §7▸ §fTitles§7)'
 - ''
-- '§cВнимание! При выбивании уже существующего'
-- '§cтитула вы получите от %s до %s золота!'
-GUI_CASES_STAFF_NAME: '§4Администраторский ключ'
+- '§cWarning! By getting already existing'
+- '§ctitle you will get from %s to %s gold!'
+GUI_CASES_STAFF_NAME: '§4Administrator key'
 GUI_CASES_STAFF_LORE:
 - ''
-- '§7Используется для получения'
-- '§7бесплатного статуса персонала от %s§7 до %s'
-- '§7на 1 неделю.'
+- '§7Uses for getting'
+- '§7free rank of staff from %s§7 to %s'
+- '§7for %s'
 - ''
-- '§cВнимание! При выбивании уже существующего'
-- '§cстатуса Вы получите новый статус'
+- '§cWarning! By getting already existing'
+- '§cstatus you will get cores up to 50'
+GUI_CASES_FREE_NAME: '§6Free key'
+GUI_CASES_FREE_LORE:
+  - ''
+  - '§7Uses for getting'
+  - '§7free rank from %s§7 to %s'
+  - '§7or gold/experience'
+  - ''
+  - '§cWarning! By getting already existing'
+  - '§cstatus you will get gold!'
 GUI_CASES_INFO_TO_LORE:
-- ''
-- '§7Approximate next rarity: %s'
-- '§7Available keys: §a%s'
-- ''
-- '§e▸ Left click, to open case'
-- '§e▸ Right click, to buy keys'
-- '§e▸ Shift + Left click, to open fast case'
+  - ''
+  - '§7Approximate next rarity: %s'
+  - '§7Available keys: §a%s'
+  - ''
+GUI_CASES_INFO_OPEN_LORE:
+  - '§e▸ Left click, to open case'
+GUI_CASES_INFO_BUY_LORE:
+  - '§e▸ Right click, to buy keys'
+GUI_CASES_INFO_FAST_LORE:
+  - '§e▸ Shift + Left click, to open fast case'
+GUI_CASES_INFO_NO_OPEN_LORE:
+  - '§c✗ You don't have the keys to open it'
 
 GUI_PURCHASE_CONFIRM: 'Confirm purchase'
 GUI_PURCHASE_CONFIRM_LORE:
@@ -7604,34 +7615,34 @@ GUI_PURCHASE_CONFIRM_CANCEL_LORE:
 COST_FORMAT: '§7Price: %s'
 DISCOUNTED_COST_FORMAT: '§7Price (with discount): %s'
 
-GUI_TIMEDONATE_NAME: 'Привилегии за время'
-GUI_TIMEDONATE_INFO_NAME: '§eИнформация'
+GUI_TIMEDONATE_NAME: 'Rank for the time'
+GUI_TIMEDONATE_INFO_NAME: '§eInformation'
 GUI_TIMEDONATE_INFO_LORE:
 - ''
 - '§7За время игры на сервере,'
 - '§7Вы можете получить временную привилегию,'
 - '§7которая будет снята по окончанию её времени.'
 - ''
-- '§7Вы наиграли: §a%s'
+- '§7You played: §a%s'
 - ''
 - '§7Для просмотра наигранного времени,'
 - '§7Вы можете использовать команду §a/time'
 GUI_TIMEDONATE_LORE:
 - ''
-- ' §8• §7Время привилегии: %s'
+- ' §8• §7Time of rank: %s'
 GUI_TIMEDONATE_AVAILABLE_LORE:
-- '§e▶ Нажмите, чтобы получить привилегию'
+- '§e▶ Click to get the rank'
 GUI_TIMEDONATE_UNAVAILABLE_LORE:
-- '§7Наиграйте еще %s,'
-- '§7для получения данной привилегии'
+- '§7Play some more %s,'
+- '§7to get this rank'
 - ''
-- ' §c✗ Недостаточно времени для получения'
+- ' §c✗ Not enough time to get it'
 GUI_TIMEDONATE_ALREADY_LORE:
-- ' §c✗ У вас уже есть возможности данной привилегии'
+- ' §c✗ You already have the capabilities of this rank'
 GUI_TIMEDONATE_ALREADYGET_LORE:
-- ' §c✗ Вы уже получали данную привилегию'
+- ' §c✗ You have already received this rank'
 
-TIMEDONATE_GET: '§aServer §8| §fВы успешно забрали привилегию %s'
+TIMEDONATE_GET: '§aServer §8| §fYou have successfully taken away the rank %s'
 
 GUI_LISTS_NAME: 'Lists menu'
 GUI_LISTS_FAST_COMMAND_LORE:
