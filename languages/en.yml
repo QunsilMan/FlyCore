@@ -93,7 +93,7 @@ BAN_REQUEST_INFO:
 BAN_REQUEST_INFO2:
 - '§aRequests §8| §fCurrently, the consideration of punishments §a%s§7 (Conside now)'
 BAN_REQUEST_INFO_HOVER:
-- '§f§oClick,'
+- '§f§oClick'
 - '§f§oto consider'
 
 ANTICHEAT_PLAYER_BANNED_INFO: '§aAntiCheat §8| §fPlayer %s§f was blocked for using outside software'
@@ -185,7 +185,7 @@ RULE_NO_AGREEMENT_SUBTITLE: '§6Please agree with the server rules §e/rule yes'
 RULE_NO_AGREEMENT:
 - ''
 - '§cAgreement §8| §fBy playing on the server, you accept its rules (§awww.flycore.ru/rules§f),'
-- '§cAgreement §8| §fBy clicking on this message, you completely agree that all your future actions on the server, will not break the rules above. §7(Click, to agree)'
+- '§cAgreement §8| §fBy clicking on this message, you completely agree that all your future actions on the server, will not break the rules above. §7(Click to agree)'
 - '§cAgreement §8| §f§nOtherwise, please leave the server'
 - ''
 RULE_ORIGINAL: '§7§oLink to the original agreement: www.flycore.ru/elua'
@@ -252,7 +252,7 @@ GUI_SKINHISTORY_SKIN_DEFAULT:
 - '§C▸ You already have a default skin'
 GUI_SKINHISTORY_SKIN_OTHER:
 - ''
-- '§e▸ Click, to clear skin'
+- '§e▸ Click to clear skin'
 GUI_SKINHISTORY_EMPTY: '§cSkin history is empty'
 GUI_SKINHISTORY_EMPTY_LORE:
 - ''
@@ -266,7 +266,7 @@ GUI_SKINHISTORY_OTHER_SET_LORE:
 - '§7Since last install passed:'
 - '§f%s'
 GUI_SKINHISTORY_ALREADY_LORE: '§C▸ You now have this skin installed.'
-GUI_SKINHISTORY_SET_LORE: '§e▸ Click, to install again'
+GUI_SKINHISTORY_SET_LORE: '§e▸ Click to install again'
 GUI_SKINHISTORY_CLEAR: '§4Clear history'
 GUI_SKINHISTORY_CLEAR_LORE:
 - ''
@@ -275,7 +275,7 @@ GUI_SKINHISTORY_CLEAR_LORE:
 - '§7Then you can clean'
 - '§7for %s'
 - ''
-- '§e▸ Click, for clear'
+- '§e▸ Click for clear'
 
 
 BEST_PLAYER_INFO:
@@ -304,7 +304,7 @@ BEST_PLAYER_BUY_LORE:
 - '%s, to become'
 - '§7new "honorable player"'
 - '§7'
-- '§e▸ Click, to outbid'
+- '§e▸ Click to outbid'
 BEST_PLAYER_NAME: '§eInformation'
 BEST_PLAYER_LORE:
 - '§7'
@@ -316,7 +316,7 @@ BEST_PLAYER_GUI: 'Most honorable player'
 BEST_PLAYER_HOLO: '§fMost honorable server player:'
 BEST_PLAYER_HOLO2: '§fHe invested: %s'
 BEST_PLAYER_HOLO3: '§7Left: %s'
-BEST_PLAYER_HOLO4: '§7Click, to change!'
+BEST_PLAYER_HOLO4: '§7Click to change!'
 BEST_PLAYER_CLICK: '§aServer §8| §f-%s§f for hitting honorable player!'
 BEST_PLAYER_CASINO_WIN: '§aServer §8| §f-%s§f §7(§e%s§7)§f for winning, because they have gone to the honorable player!'
 BEST_PLAYER_CASINO_LOSING: '§aServer §8| §f-%s§f §7(§e%s§7)§f for losing, because they have gone to the honorable player!'
@@ -688,7 +688,7 @@ ITEMS_ADD_STATS: '§aItems §8| §fYou get stats %s'
 ITEMS_ADD_DONATE: '§aItems §8| §fYou get privilege %s'
 
 HOVER_MESSAGE_CHAT:
-- '§f§oClick here, to write'
+- '§f§oClick hereto write'
 - '§f§oplayer %s§f in pm (personal message)'
 
 PLAYER_NO_USE_LEVEL: '§aAccount §8| §cError, for use this you must have a level not lower %s or rank %s§c!'
@@ -897,7 +897,7 @@ KITWARS_STARTED_SUBTITLE: '§fKill the most players'
 KITWARS_BONUS_GET: '%s§f picked up a bonus %s'
 KITWARS_NPC:
 - '§eKit selection'
-- '§fClick, to open!'
+- '§fClick to open!'
 KITWARS_INFO:
 - '§eYour task is to score as many kills as possible.'
 - '§eTeam with the most kills wins.'
@@ -1075,7 +1075,7 @@ ARENA_TYPE_TEAM_NO_TEAM: '§c§lWarning! §cThe formation of unions from several
 ARENA_TYPE_SOLO_NO_TEAM: '§c§lWarning! §cTeam play banned in Solo mode. Report such players to the forum.'
 
 GUI_BW_SHOP_NAME: 'Shop'
-GUI_BW_SHOP_BUY: '§a▸ Click, to buy'
+GUI_BW_SHOP_BUY: '§a▸ Click to buy'
 GUI_BW_SHOP_NO_BUY: '§cYou do not have enough resources'
 GUI_BW_SHOP_PRICE: 'Price'
 GUI_BW_SHOP_INFO:
@@ -1095,8 +1095,8 @@ GUI_BW_SHOP_POTION: 'Potions'
 GUI_BW_SHOP_OTHER: 'Different'
 
 GUI_BW_SHOP_NO_SLOTS: '§cYou do not have enough space in your inventory!'
-GUI_BW_SHOP_GUI_ADD_FAVOURITE: '§aRight click, to add to favorites'
-GUI_BW_SHOP_GUI_REMOVE_FAVOURITE: '§cRight click, to remove from favorites'
+GUI_BW_SHOP_GUI_ADD_FAVOURITE: '§aRight click to add to favorites'
+GUI_BW_SHOP_GUI_REMOVE_FAVOURITE: '§cRight click to remove from favorites'
 GUI_BW_SHOP_GUI_NO_SLOTS_FAVOURITE: '§cYou do not have free slots to add to favorites!'
 GUI_BW_SHOP_GUI_FAVOURITE: 'Empty slot for favorites'
 GUI_BW_SHOP_GUI_FAVOURITE_LOER:
@@ -1122,7 +1122,7 @@ ITEM_COSMETIC_LORE:
 - '§7for game cosmetics'
 ITEM_REPLAY_NAME: '§aGame new start'
 ITEM_REPLAY_LORE:
-- '§7Click, to start new game'
+- '§7Click to start new game'
 - '§7on the same mode'
 
 SPECTATOR_PERK_LORE:
@@ -1153,13 +1153,13 @@ GUI_SETTINGS_GLOWING_LORE:
 - '§7This setting will turn off the backlight'
 - '§7all players in the arena'
 - ' '
-- '§e▸ Click, to disable'
+- '§e▸ Click to disable'
 GUI_SETTINGS_NO_GLOWING_LORE:
 - ' '
 - '§7This setting will turn on the backlight'
 - '§7all players in the arena'
 - ' '
-- '§e▸ Click, to enable'
+- '§e▸ Click to enable'
 GUI_SETTINGS_SPEED_LORE:
 - ' '
 - '§7Changes movement speed'
@@ -1167,16 +1167,16 @@ GUI_SETTINGS_SPEED_LORE:
 - '§7level'
 GUI_SETTINGS_NOFLY_LORE:
 - ' '
-- '§e▸ Click, to disable'
+- '§e▸ Click to disable'
 GUI_SETTINGS_FLY_LORE:
 - ' '
-- '§e▸ Click, to enable'
+- '§e▸ Click to enable'
 GUI_SETTINGS_VISION_LORE:
 - ' '
-- '§e▸ Click, to disable'
+- '§e▸ Click to disable'
 GUI_SETTINGS_NOVISION_LORE:
 - ' '
-- '§e▸ Click, to enable'
+- '§e▸ Click to enable'
 GUI_SETTINGS_SHOW_LORE:
 - ' '
 - '§7Сейчас Вы не видите других'
@@ -1192,7 +1192,7 @@ GUI_SETTINGS_HIDE_LORE:
 - '§7of this setting they will be hidden'
 - '§7for you.'
 - ' '
-- '§e▸ Click, to hide'
+- '§e▸ Click to hide'
 
 SPECTATOR_SETTING_CHANGED: '§aObservation §8| §fMovement speed changed'
 SPECTATOR_SETTING_FLY_ON: '§aObservation §8| §fYou have turned on constant flight'
@@ -1234,11 +1234,11 @@ SITESHOP_ITEM_LORE_2:
 - '§cWARNING! You should have %s'
 - '§cfree slots in your inventory!'
 - ' '
-SITESHOP_ITEM_LORE_3: '§e▸ Click, for buy'
+SITESHOP_ITEM_LORE_3: '§e▸ Click for buy'
 SITESHOP_ITEM_LORE_4:
 - '§7Price: §e%s'
 - ''
-- '§e▸ Click, for buy'
+- '§e▸ Click for buy'
 
 PERSONALUP_CONFIRM: '§cConfirm your key /personalup <key>'
 
@@ -1262,7 +1262,7 @@ ANS_INFO:
 ANS_INFO2:
 - '§aQuestions §8| §fCurretly, they are waiting for an answer §a%s§7 (Answear now)'
 ANS_INFO_HOVER:
-- '§f§oClick,'
+- '§f§oClick'
 - '§f§oto answear'
 
 SERVER_STOP: '§aServer §8| §fStopping server §a%s§f...'
@@ -1357,7 +1357,7 @@ ITEM_STAFFCHAT_LORE:
  - ''
  - '§7Staff chat: %s'
  - ''
- - ' §e▸ Click, to %s staff chat'
+ - ' §e▸ Click to %s staff chat'
 ITEM_DELAY_NAME: '§eDelay'
 ITEM_DELAY_LORE:
  - '§7Allows you to enable or disable'
@@ -1366,7 +1366,7 @@ ITEM_DELAY_LORE:
  - ''
  - '§7Delay: %s'
  - ''
- - ' §e▸ Click, to %s delay'
+ - ' §e▸ Click to %s delay'
 ITEM_TRACES_NAME: '§eFootprints'
 ITEM_TRACES_LORE:
  - '§7Allows you to enable or disable'
@@ -1375,7 +1375,7 @@ ITEM_TRACES_LORE:
  - ''
  - '§7Footprints: %s'
  - ''
- - ' §e▸ Click, for %s flood'
+ - ' §e▸ Click for %s flood'
 ITEM_GAME_NAME: 'Game menu'
 ITEM_GAME_LORE:
  - '§7Choose your game'
@@ -1445,7 +1445,7 @@ ITEM_LOCATOR_LORE:
 - '§7find nearest player'
 ITEM_ITEMS_NAME: '§9§lItems'
 ITEM_ITEMS_LORE:
-- '§7Click, to select item'
+- '§7Click to select item'
 ITEM_SETTING_LORE:
 - '§7Customize your account'
 
@@ -1460,22 +1460,22 @@ TRAINING_FIRST_SUBTITLE: '§7You are on the serverе: §a§l§nFlyCore'
 TRAINING_STAGE_0_TITLE: '§fPlease look in the chat,'
 TRAINING_STAGE_0_SUBTITLE: 'and check your language'
 TRAINING_STAGE_0_WHATLANG: '§fYour language §a%s§f?'
-TRAINING_STAGE_0_HOVER_YES: 'Click, to select language §a%s'
-TRAINING_STAGE_0_HOVER_NO: 'Click, to open language menus'
+TRAINING_STAGE_0_HOVER_YES: 'Click to select language §a%s'
+TRAINING_STAGE_0_HOVER_NO: 'Click to open language menus'
 
 #Stage 1
 TRAINING_STAGE_1_TITLE: '§fDo you want to take a course §etraining§f?'
 TRAINING_STAGE_1_SUBTITLE: '§7You can learn about plushki, and opportunities'
 TRAINING_STAGE_1_WHATTRAINING: '§fwant to go §dtraining§f?'
-TRAINING_STAGE_1_HOVER_YES: 'Click, to start training'
-TRAINING_STAGE_1_HOVER_NO: 'Click, to reject training'
+TRAINING_STAGE_1_HOVER_YES: 'Click to start training'
+TRAINING_STAGE_1_HOVER_NO: 'Click to reject training'
 
 #Stage 2
 TRAINING_STAGE_2_LOAD_1: '§7Loading training.'
 TRAINING_STAGE_2_LOAD_2: '§7Loading training. .'
 TRAINING_STAGE_2_TITLE: '§fOn our server, our self-described plugins'
 TRAINING_STAGE_2_SUBTITLE: '§fVerify this by clicking on the message in the chat'
-TRAINING_STAGE_2_CHECKPLUGIN: '§fClick, to write a command §e/plugins'
+TRAINING_STAGE_2_CHECKPLUGIN: '§fClick to write a command §e/plugins'
 TRAINING_STAGE_2_HOVER: '§b(Click here)'
 
 #Stage 3
@@ -1665,7 +1665,7 @@ TFA_CREATE:
 TFA_HOVER_MSG:
 - '§aTFA §8| §fYour access key - §a%s §7(hover)'
 TFA_HOVER_COPY_MSG:
-- '§f§oClick, to show the access key in the input field'
+- '§f§oClick to show the access key in the input field'
 - '§f§oThen copy it (CTRL+A, CTRL+C)'
 TFA_HELP:
  - '§7/tfa create §f- generate new access key'
@@ -1827,7 +1827,7 @@ PARTY_NOT_MEMBERS: '§aParty §8| §fAll group members left it, the group has be
 PARTY_REQUESTS: '§aParty §8| §fList of the group invites (§a%s§f)'
 PARTY_REQUESTS_FORMAT: '  §c• §fRequest from %s§7 §nclick to accept'
 PARTY_REQUESTS_HOVER:
-- '§f§oClick, to join the group'
+- '§f§oClick to join the group'
 PARTY_REQUESTS_NO: "§aParty §8| §cYou haven't got party invites"
 
 PARTY_KICK_FORMAT: '/%s kick <nickname>'
@@ -2102,16 +2102,16 @@ INVITE_ACCEPT_BUTTON: '          §a§l[ACCEPT]'
 INVITE_DECLINE_BUTTON: ' §4§l[REJECT]'
 
 ASK_HOVER:
-- '§7§oClick, to answer player'
+- '§7§oClick to answer player'
 - '§7§oOn question: §a%s'
-FRIEND_HOVER_YES: '§f§oClick, to be friends'
-FRIEND_HOVER_NO: '§f§oClick, to reject request'
-PARTY_HOVER_YES: '§f§oClick, to accept invition'
-PARTY_HOVER_NO: '§f§oClick, to reject invition'
-PARTY_GUILD_HOVER_YES: '§f§oClick, to accept invition'
-PARTY_GUILD_HOVER_NO: '§f§oClick, to reject invition'
-GUILD_HOVER_YES: '§f§oClick, to accept invition'
-GUILD_HOVER_NO: '§f§oClick, to reject invition'
+FRIEND_HOVER_YES: '§f§oClick to be friends'
+FRIEND_HOVER_NO: '§f§oClick to reject request'
+PARTY_HOVER_YES: '§f§oClick to accept invition'
+PARTY_HOVER_NO: '§f§oClick to reject invition'
+PARTY_GUILD_HOVER_YES: '§f§oClick to accept invition'
+PARTY_GUILD_HOVER_NO: '§f§oClick to reject invition'
+GUILD_HOVER_YES: '§f§oClick to accept invition'
+GUILD_HOVER_NO: '§f§oClick to reject invition'
 
 GUILD_NO: "§aGuilds §8| §cYou aren't in the guild. Create /g create"
 
@@ -3001,8 +3001,8 @@ YT_REMLINK: '§aYouTube §8| §fYou removed link §a%s'
 YT_GETLINK: '§aYouTube §8| §fYour link: §a%s'
 
 TRAINING_FORMAT: '/%s <yes/no>'
-TRAINING_SKIP_HOVER_YES: 'Click, to passing урезанное training'
-TRAINING_SKIP_HOVER_NO: 'Click, to removed урезенное training'
+TRAINING_SKIP_HOVER_YES: 'Click to passing урезанное training'
+TRAINING_SKIP_HOVER_NO: 'Click to removed урезенное training'
 TRAINING_SKIP_TITLE: '§fВы хотите пройти §cурезанное §eоtraining§f?'
 TRAINING_SKIP_SUBTITLE: '§7вы сможете узнать о плюшках и возможностях'
 TRAINING_SKIP_NAME: '   §8 -| §6§lTraining §8|-'
@@ -4344,7 +4344,7 @@ GUI_PROFILE_THEME_LORE:
 - '§7Current theme: %s'
 - '§7Open: §a%s§7/§a%s §d%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_PROFILE_TITLE_LORE:
 - '§7Позволяет купить или активировать'
 - '§7уже купленные титулы'
@@ -5339,7 +5339,7 @@ GUI_JOINMESSAGES_ITEM_LORE:
 - '§7Оповещение для игроков:'
 - '%s'
 GUI_JOINMESSAGES_SELECT: '§aMessage selected'
-GUI_JOINMESSAGES_NOT_SELECT: '§e▸ Click, to select'
+GUI_JOINMESSAGES_NOT_SELECT: '§e▸ Click to select'
 GUI_JOINMESSAGES_NOT_AVAILABLE: '§cCurrent message you not available'
 
 JOINMESSAGES_SELECT: '§aСообщение при входе §8| §fСообщение под номером §a%s§f активировано'
@@ -5403,7 +5403,7 @@ GUI_FASTMESSAGES_ITEM_LORE:
 - '§7Message: §a%s'
 GUI_FASTMESSAGES_AVAILABLE_LORE:
 - ''
-- '§e▸ Click, to sent this message'
+- '§e▸ Click to sent this message'
 GUI_FASTMESSAGE_1: 'Go'
 GUI_FASTMESSAGE_2: 'Sleeping'
 GUI_FASTMESSAGE_3: 'Capitulating'
@@ -5582,7 +5582,7 @@ GUI_REWARDS_GET:
 - ' §e▸ Click to, get reward'
 GUI_REWARDS_BOOSTER_GET:
 - ''
-- ' §e▸ Click, to activate booster'
+- ' §e▸ Click to activate booster'
 
 GUI_LOBBY_NAME: 'Lobby selector'
 GUI_LOBBY_ALREADY:
@@ -5639,7 +5639,7 @@ GUI_SITESHOP_BUY_LORE:
 - ''
 - '§7Price: %s'
 - ''
-- ' §e▸ Click, to buy'
+- ' §e▸ Click to buy'
 GUI_SITESHOP_NO_BUY_LORE:
 - ''
 - '§7Price: §c%s'
@@ -5918,9 +5918,9 @@ GUI_GADGETS_GIVE_GOLDS: '§7Price §e%s'
 GUI_GADGETS_GIVE_CORE: '§7Price §b%s'
 GUI_GADGETS_NO_GIVE: '§cDo not enough %s'
 GUI_GADGETS_NO_AVAILABLE: '§cThis item your not available'
-GUI_GADGETS_BUY: '§eClick, to buying for %s'
-GUI_GADGETS_USE: '§e▸ Click, to activate'
-GUI_GADGETS_SELECTED: '§c▸ Click, to disactivate'
+GUI_GADGETS_BUY: '§eClick to buying for %s'
+GUI_GADGETS_USE: '§e▸ Click to activate'
+GUI_GADGETS_SELECTED: '§c▸ Click to disactivate'
 GUI_GADGETS_NOT_SELECTED: '§cNo select'
 GUI_GADGETS_SETTING_1: '§eDisguises'
 GUI_GADGETS_SETTING_1_LORE:
@@ -5947,7 +5947,7 @@ GUI_GADGETS_EMOTE_LORE:
 - '§7Activated emote:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_GADGETS_SPIRIT_LORE:
 - '§7Your right friend, which'
 - '§7will follow You, till You are alive.'
@@ -5957,7 +5957,7 @@ GUI_GADGETS_SPIRIT_LORE:
 - '§7Activated spirit:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_GADGETS_BANNER_LORE:
 - '§7Различные флаги и красивые картинки'
 - '§7которые вы можете одеть в качестве'
@@ -5967,7 +5967,7 @@ GUI_GADGETS_BANNER_LORE:
 - '§7Activated banner:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_GADGETS_EFFECT_LORE:
 - '§7Want to be spectacular at all senses'
 - '§7of this word? Please, welcome here!'
@@ -5976,7 +5976,7 @@ GUI_GADGETS_EFFECT_LORE:
 - '§7Activated effect:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_GADGETS_HAT_LORE:
 - '§7Тут вы можете найти лучшие шляпы'
 - '§7из гардероба! Нет, нет,'
@@ -5987,7 +5987,7 @@ GUI_GADGETS_HAT_LORE:
 - '§7Activated hat:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_GADGETS_COMPANIONS_LORE:
 - '§7В этом разделе есть маленькие и милые'
 - '§7создания, которые придутся вам по душе!'
@@ -5997,7 +5997,7 @@ GUI_GADGETS_COMPANIONS_LORE:
 - '§7Activated companion:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_GADGETS_DIS_LORE:
 - '§7Испытайте на себе судьбу различных'
 - '§7существ! Будь то котик, крипер, или'
@@ -6008,7 +6008,7 @@ GUI_GADGETS_DIS_LORE:
 - '§7Activated перевоплощение:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_GADGETS_PET_LORE:
 - '§7Давно хотели себе ручного любимца?'
 - '§7Тогда вам сюда! Вы только посмотрите'
@@ -6018,7 +6018,7 @@ GUI_GADGETS_PET_LORE:
 - '§7Activated pet:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_GADGETS_MECHANISMS_LORE:
 - '§7Интересные предметы для развлечения'
 - '§7в лобби, или подшучивания над друзьями.'
@@ -6027,12 +6027,12 @@ GUI_GADGETS_MECHANISMS_LORE:
 - '§7Activated mechanisms:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_GADGETS_DGG_LORE:
 - ''
 - '§7List of activated gadgets:'
 GUI_GADGETS_DGG_LORE2:
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_GADGETS_DGG_LORE3:
 - '§e▸ Right click, to disable all gadgets'
 GUI_GADGETS_SETTING_LORE:
@@ -6040,7 +6040,7 @@ GUI_GADGETS_SETTING_LORE:
 - '§7кастомизации gadgets под'
 - '§7каждого player'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_GADGETS_EFFECT_1: 'Cloud'
 GUI_GADGETS_EFFECT_1_LORE:
 - '§7Тебя будет преследовать облако!'
@@ -6485,7 +6485,7 @@ GUI_PREFIX_SELECTED_LORE:
 - '§aPrefix selected'
 GUI_PREFIX_SELECT_LORE:
 - '§7Change prefix to: %s'
-GUI_PREFIX_SELECT: '§e▸ Click, to set prefix'
+GUI_PREFIX_SELECT: '§e▸ Click to set prefix'
 GUI_PREFIX_UNAVAILABLE: '§c✗ This prefix you no available'
 PREFIX_NOT_SELECT: '§cPrefix not selected'
 COLOR_GRAY: '§7Gray'
@@ -6550,7 +6550,7 @@ GUI_COSMETIC_DGG_LORE:
 - ''
 - '§7List of activated cosmetic:'
 GUI_COSMETIC_DGG_LORE2:
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_COSMETIC_DGG_LORE3:
 - '§e▸ Right click, to disable all cosmetic'
 
@@ -6592,7 +6592,7 @@ GUI_COSMETIC_KILLSOUND_LORE:
 - '§7Activated sound:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_COSMETIC_ARROWEFFECT_LORE:
 - '§7Buying and activation effects'
 - '§7that will appear in arrows,'
@@ -6602,7 +6602,7 @@ GUI_COSMETIC_ARROWEFFECT_LORE:
 - '§7Activated effect:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_COSMETIC_KILLEFFECT_LORE:
 - '§7Buying and activation effects'
 - '§7that will be playing'
@@ -6612,7 +6612,7 @@ GUI_COSMETIC_KILLEFFECT_LORE:
 - '§7Activated effect:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_COSMETIC_WINEFFECT_LORE:
 - '§7Buying and activation effects'
 - '§7that will be playing'
@@ -6622,7 +6622,7 @@ GUI_COSMETIC_WINEFFECT_LORE:
 - '§7Activated effect:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_COSMETIC_STARTSOUND_LORE:
 - '§7Buying and activation sounds'
 - '§7которые вы услышите при'
@@ -6632,7 +6632,7 @@ GUI_COSMETIC_STARTSOUND_LORE:
 - '§7Activated sound:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_COSMETIC_COLORABLE_LORE:
 - '§7Buying and activation colors'
 - '§7в которые будут окращены ваши'
@@ -6642,7 +6642,7 @@ GUI_COSMETIC_COLORABLE_LORE:
 - '§7Activated color:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_COSMETIC_PERKS_LORE:
 - '§7Buying and activation perks'
 - '§7которые украсят вашу игру'
@@ -6652,7 +6652,7 @@ GUI_COSMETIC_PERKS_LORE:
 - '§7Activated perk:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 GUI_COSMETIC_KITS_LORE:
 - '§7Buying and activation kits'
 - '§7которые будут выданы'
@@ -6662,7 +6662,7 @@ GUI_COSMETIC_KITS_LORE:
 - '§7Activated kit:'
 - '%s'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Click to open menu'
 
 GUI_COSMETIC_ARROWEFFECT_1: 'Зелья'
 GUI_COSMETIC_ARROWEFFECT_1_LORE:
@@ -7141,7 +7141,7 @@ GUI_GUILDALL_ITEM_LORE:
 - '§7Total guilds:'
 - '§a%s'
 GUI_GUILDALL_LIMIT: ' §c✗ Guild is full'
-GUI_GUILDALL_JOIN: '§e▸ Click, to join'
+GUI_GUILDALL_JOIN: '§e▸ Click to join'
 GUI_GUILDALL_FORMAT: '§eGuild %s'
 
 GUI_HISTORY_NAME: 'Список истории (%s)'
@@ -7191,7 +7191,7 @@ GUI_BANLIST_PLAYER_OFFLINE:
 - '§e%s ago'
 - ''
 - ' §c✗ Player is offline'
-GUI_BANLIST_PLAYER_VIEW: '§e▸ Click, to view more details'
+GUI_BANLIST_PLAYER_VIEW: '§e▸ Click to view more details'
 
 GUI_PARTYALL_NAME: 'Group ▸ Group list'
 GUI_PARTYALL_EMPTY: '§cВ данный момент нет публичных групп'
@@ -7217,7 +7217,7 @@ GUI_PARTYALL_ONLINE:
 GUI_PARTYALL_OFFLINE:
 - ' §c✗ %s Группы offline'
 GUI_PARTYALL_LIMIT: ' §c✗ Party is full'
-GUI_PARTYALL_JOIN: '§e▸ Click, to join'
+GUI_PARTYALL_JOIN: '§e▸ Click to join'
 GUI_PARTYALL_ALREADY: ' §c✗ You already this party'
 GUI_PARTYALL_ALREADY_OTHER: ' §c✗ You another party'
 GUI_PARTYALL_FORMAT: '§eParty %s'
@@ -7371,7 +7371,7 @@ GUI_BOOST_NEED_XP_LORE:
 - ''
 GUI_BOOST_UP_TO_LORE:
 - ''
-- '§e▸ Click, to up %s'
+- '§e▸ Click to up %s'
 - ''
 GUI_BOOST_MAX_LORE:
 - ''
@@ -7454,12 +7454,12 @@ GUI_CASES_BUY_LORE:
 - ''
 - '§7Discount on buying §f%s'
 - ''
-- '§e▸ Click, to buy'
+- '§e▸ Click to buy'
 GUI_CASES_SELL_LORE:
 - ''
 - '§7Sell %s for %s'
 - ''
-- '§e▸ Click, to sell'
+- '§e▸ Click to sell'
 GUI_CASES_INFO_NAME: '§bHelp of keys'
 GUI_CASES_INFO_LORE:
 - '§7Use keys for'
@@ -7491,7 +7491,7 @@ GUI_CASES_INFO2_LORE2:
 - '§7More information about rewards,'
 - '§7by clicking on this item.'
 - ''
-- '§e▸ Click, to open detailed information'
+- '§e▸ Click to open detailed information'
 GUI_CASES_BUY_TO_MONEY_NAME: '§6Purchasing keys for coins'
 GUI_CASES_BUY_TO_GOLD_NAME: '§ePurchasing keys for gold'
 GUI_CASES_BUY_TO_CORE_NAME: '§bPurchasing keys for cores'
@@ -8389,7 +8389,7 @@ SHOP_LORE_FIXED_ITEM_BUY:
 - ''
 - '§7Price: §a%s'
 - ''
-- '§e▸ Click, to buy'
+- '§e▸ Click to buy'
 SHOP_LORE_FIXED_ITEM_SELL:
 - ''
 - '§7Получите после продажи: §a%s'
@@ -8397,7 +8397,7 @@ SHOP_LORE_FIXED_ITEM_SELL:
 - '§7Click to §fколесико мыши,'
 - '§7for sell all %s'
 - ''
-- '§e▸ Click, for sell'
+- '§e▸ Click for sell'
 SHOP_GUIBUY_NAME: 'Buy %s'
 SHOP_GUISELL_NAME: 'Sell %s'
 SHOP_ITEMBUY_LORE:
@@ -8610,7 +8610,7 @@ HOLO_TOP_ONLINE_FORMAT: ' §c#%s §f- %s§f, played - §a%s'
 
 HOLO_REWARDS:
 - '§bRewards'
-- '§7Click, to open'
+- '§7Click to open'
 
 HOLO_DONATE:
 - '§fBuy on our site:'
@@ -8658,11 +8658,11 @@ HOLO_CREATIVE:
 HOLO_RTP:
  - '§cRandom teleport'
  - '§fTeleport you in random point in the world'
- - '§7Click, to teleport'
+ - '§7Click to teleport'
 
 HOLO_TRAINING:
 - '§dTraining'
-- '§7Click, to pass the'
+- '§7Click to pass the'
 
 HOLO_TOP_ALL:
 - '%s'
@@ -8823,7 +8823,7 @@ HOLO_MONTHLY_TOP_INFO:
 
 HOLO_SHOP:
   - '§eShop'
-  - '§fClick, to open!'
+  - '§fClick to open!'
 
 HOLO_PRISON:
 - '§a§lPrison'
@@ -8843,7 +8843,7 @@ HOLO_FASTSTART:
 
 HOLO_HORSE:
   - '§eSled rental animals'
-  - 'Click, to get horse'
+  - 'Click to get horse'
 
 HOLO_PORTAL_START:
 - '§d§lFast start'
